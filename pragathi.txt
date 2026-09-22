@@ -2,4 +2,6 @@ git init - create a new git repo
 git status - show the status of file
 git --version
 pwd - path of working directory
-ls - list of files
+ls - list of files\
+git switch -c <new branch>
+git add .
