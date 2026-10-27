@@ -1,4 +1,2 @@
-My First GitHub Project
-
-Hello! I am learning Git and GitHub.
-This is my first file uploaded to GitHub.
+I have now learned how to modify a file.
+This is my second update on GitHub!
